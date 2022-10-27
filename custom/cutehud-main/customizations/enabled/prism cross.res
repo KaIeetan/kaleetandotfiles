@@ -1,0 +1,131 @@
+#base	"prism cross bonus.res"
+
+"Resource/UI/HudPlayerHealth.res"
+{
+	"HudPlayerHealth"
+	{
+		"HealthDeathWarningColor"	"Health Hurt"
+	}
+
+	"PlayerStatusHealthImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImage"
+		"xpos"			"c-230"
+		"xpos_minmode"	"c-160"
+		"ypos"			"344"
+		"ypos_minmode"	"308"
+		"zpos"			"8"
+		"wide"			"36"
+		"wide_minmode"	"28"
+		"tall"			"36"
+		"tall_minmode"	"28"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+	}
+	"PlayerStatusHealthAdditiveBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthAdditiveBG"
+		"xpos"			"c-230"
+		"xpos_minmode"	"c-160"
+		"ypos"			"344"
+		"ypos_minmode"	"308"
+		"zpos"			"6"
+		"wide"			"36"
+		"wide_minmode"	"28"
+		"tall"			"36"
+		"tall_minmode"	"28"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/hp/health_color_bg"
+		"scaleImage"	"1"
+	}
+	"PlayerStatusHealthAdditiveBGover"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthAdditiveBGover"
+		"xpos"			"c-230"
+		"xpos_minmode"	"c-160"
+		"ypos"			"344"
+		"ypos_minmode"	"308"
+		"zpos"			"7"
+		"wide"			"36"
+		"wide_minmode"	"28"
+		"tall"			"36"
+		"tall_minmode"	"28"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/hp/health_color_bg2"
+		"scaleImage"	"1"
+		"alpha"			"100"
+	}
+	"PlayerStatusHealthAdditive"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthAdditive"
+		"xpos"			"c-230"
+		"xpos_minmode"	"c-160"
+		"ypos"			"344"
+		"ypos_minmode"	"308"
+		"zpos"			"9"
+		"wide"			"36"
+		"wide_minmode"	"28"
+		"tall"			"36"
+		"tall_minmode"	"28"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/hp/health_color_additive"
+		"scaleImage"	"1"
+		"alpha"			"255"
+	}
+	"PlayerStatusHealthAdditiveOverlay"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthAdditiveOverlay"
+		"xpos"			"c-230"
+		"xpos_minmode"	"c-160"
+		"ypos"			"344"
+		"ypos_minmode"	"308"
+		"zpos"			"10"
+		"wide"			"36"
+		"wide_minmode"	"28"
+		"tall"			"36"
+		"tall_minmode"	"28"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/hp/health_color_over"
+		"scaleImage"	"1"
+		"alpha"			"255"
+	}
+	"PlayerStatusHealthShadow"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthShadow"
+		"xpos"			"c-230-18+2"
+		"xpos_minmode"	"c-160-14+2"
+		"ypos"			"344-18+2"
+		"ypos_minmode"	"308-14+2"
+		"zpos"			"5"
+		"wide"			"72" //36
+		"wide_minmode"	"56" //28
+		"tall"			"72" //36
+		"tall_minmode"	"56" //28
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/hp/health_color_bg5"
+		"scaleImage"	"1"
+		"alpha"			"140"
+	}
+
+	"PlayerStatusHealthImage"
+	{
+		"xpos"			"c-230"
+		"xpos_minmode"	"c-160"
+		"ypos"			"344"
+		"wide"			"36"
+		"tall"			"36"
+		"alpha"			"255"
+	}
+}

@@ -1,0 +1,1 @@
+Resource/HudLayout.Res { IHCrosshair { labelText ' } } 

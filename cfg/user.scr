@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Sun Oct 23 16:00:09 AM
+// File generated:  Sun Feb 26 17:57:38 AM
 //
 //
 // Cvar	-	Setting
@@ -60,7 +60,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_EnableTextChat"
 		"#Tooltip_EnableTextChat"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"chat_filter_settings"
@@ -132,7 +132,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchLowDmg"
 		"#Tooltip_Dingaling_PitchLowDmg"
 		{ SLIDER 1 255 }
-		{ "100" }
+		{ "133" }
 	}
 
 	"tf_dingaling_pitchmaxdmg"
@@ -140,7 +140,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchHighDmg"
 		"#Tooltip_Dingaling_PitchHighDmg"
 		{ SLIDER 1 255 }
-		{ "100" }
+		{ "66" }
 	}
 
 	"tf_dingalingaling_lasthit"
@@ -222,7 +222,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Tooltip_CombatTextRed"
 		"#Tooltip_CombatTextColors"
 		{ SLIDER 1 255 }
-		{ "255" }
+		{ "245" }
 	}
 
 	"hud_combattext_green"
@@ -230,7 +230,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Tooltip_CombatTextGreen"
 		"#Tooltip_CombatTextColors"
 		{ SLIDER 1 255 }
-		{ "1" }
+		{ "224" }
 	}
 
 	"hud_combattext_blue"
@@ -238,7 +238,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Tooltip_CombatTextBlue"
 		"#Tooltip_CombatTextColors"
 		{ SLIDER 1 255 }
-		{ "1" }
+		{ "220" }
 	}
 
 	"tf_remember_activeweapon"
@@ -276,7 +276,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_simple_disguise_menu_option"
 		"#Tooltip_simple_disguise_menu_option"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"cl_autorezoom"
@@ -300,7 +300,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_medigun_autoheal"
 		"#Tooltip_medigun_autoheal"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"hud_medichealtargetmarker"
@@ -316,7 +316,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_AutoMedicCallers"
 		"#Tooltip_AutoMedicCallers"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"hud_medicautocallersthreshold"
@@ -338,7 +338,7 @@ DESCRIPTION INFO_OPTIONS
 		"#GameUI_EnableHUDMinMode"
 		"#Tooltip_EnableHUDMinMode"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"tf_colorblindassist"
@@ -354,7 +354,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_UseAdvancedTourneyGUI"
 		"#Tooltip_UseAdvancedTourneyGUI"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"cl_spec_carrieditems"
@@ -493,7 +493,7 @@ DESCRIPTION INFO_OPTIONS
 			"#TF_Contract_Progress_All" "1"
 			"#TF_Contract_Progress_Active" "2"
 		}
-		{ "0" }
+		{ "2" }
 	}
 
 	"tf_contract_competitive_show"
@@ -703,7 +703,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Valve_UseSteamCloud"
 		"#Tooltip_UseSteamCloud"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"cl_steamscreenshots"

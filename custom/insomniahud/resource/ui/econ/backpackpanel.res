@@ -61,9 +61,15 @@
 				"paintbackground"					"1"
 				"paintborder"						"1"
 				"border_default"					"NoBorder"
+<<<<<<< HEAD
+				"border_armed"						"FLAT_Primary_4"
+				"border_depressed"					"FLAT_Primary_4"
+				"border_selected"					"FLAT_Primary_4"
+=======
 				"border_armed"						"FLAT_AccentMain_4"
 				"border_depressed"					"FLAT_AccentMain_4"
 				"border_selected"					"FLAT_AccentMain_4"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"textAlignment"						"center"
 				"labelText"							"%page%"
 				"font"								"HudFontSmallestBold"
@@ -89,7 +95,11 @@
 				"mouseinputenabled"				 	"0"
 				"paintbackground"					"0"
 				"proportionaltoparent"				"1"
+<<<<<<< HEAD
+				"border"							"FLAT_Primary_0"
+=======
 				"border"							"FLAT_AccentMain_0"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"fgcolor"							"0 0 0 255"
 			}
 		}
@@ -143,7 +153,11 @@
 				"mouseinputenabled" 				"0"
 				"paintbackground"					"0"
 				"proportionaltoparent"				"1"
+<<<<<<< HEAD
+				"border"							"FLAT_Primary_0"
+=======
 				"border"							"FLAT_AccentMain_0"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"fgcolor"							"0 0 0 255"
 			}
 

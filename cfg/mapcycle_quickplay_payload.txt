@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pl_badwater
 pl_frontier_final
 pl_goldrush
@@ -8,3 +9,15 @@ pl_barnblitz
 pl_borneo
 pl_snowycoast
 pl_swiftwater_final1
+=======
+pl_badwater
+pl_frontier_final
+pl_goldrush
+pl_hoodoo_final
+pl_thundermountain
+pl_upward
+pl_barnblitz
+pl_borneo
+pl_snowycoast
+pl_swiftwater_final1
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6

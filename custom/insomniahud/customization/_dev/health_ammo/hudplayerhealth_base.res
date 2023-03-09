@@ -45,7 +45,11 @@
 		"labelText" 		         				"%Health%"
 		"textAlignment"         				 	"west"
 		"font"                   				 	"bold32"
+<<<<<<< HEAD
+		"fgcolor"	    	         				"Neutral"
+=======
 		"fgcolor"	    	         				"HealthNormal"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 	"PlayerStatusHealthValueShadow"
 	{

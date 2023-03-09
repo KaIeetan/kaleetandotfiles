@@ -112,55 +112,95 @@
 			"draw_corner_width"			"4"
 			"draw_corner_height"		"4"
 		}
+<<<<<<< HEAD
+		"FLAT_Primary_0"
+		{
+			"bordertype"				"scalable_image"
+			"background_type"			"0"
+			"color"						"Primary"
+=======
 		"FLAT_AccentMain_0"
 		{
 			"bordertype"				"scalable_image"
 			"background_type"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/FLAT_0"
 			"src_corner_width"			"20"
 			"src_corner_height"			"20"
 			"draw_corner_width"			"4"
 			"draw_corner_height"		"4"
 		}
+<<<<<<< HEAD
+		"FLAT_Primary_1"
+		{
+			"bordertype"				"scalable_image"
+			"background_type"			"0"
+			"color"						"Primary"
+=======
 		"FLAT_AccentMain_1"
 		{
 			"bordertype"				"scalable_image"
 			"background_type"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/FLAT_1"
 			"src_corner_width"			"20"
 			"src_corner_height"			"20"
 			"draw_corner_width"			"4"
 			"draw_corner_height"		"4"
 		}
+<<<<<<< HEAD
+		"FLAT_Primary_2"
+		{
+			"bordertype"				"scalable_image"
+			"background_type"			"0"
+			"color"						"Primary"
+=======
 		"FLAT_AccentMain_2"
 		{
 			"bordertype"				"scalable_image"
 			"background_type"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/FLAT_2"
 			"src_corner_width"			"20"
 			"src_corner_height"			"20"
 			"draw_corner_width"			"4"
 			"draw_corner_height"		"4"
 		}
+<<<<<<< HEAD
+		"FLAT_Primary_3"
+		{
+			"bordertype"				"scalable_image"
+			"background_type"			"0"
+			"color"						"Primary"
+=======
 		"FLAT_AccentMain_3"
 		{
 			"bordertype"				"scalable_image"
 			"background_type"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/FLAT_3"
 			"src_corner_width"			"20"
 			"src_corner_height"			"20"
 			"draw_corner_width"			"4"
 			"draw_corner_height"		"4"
 		}
+<<<<<<< HEAD
+		"FLAT_Primary_4"
+		{
+			"bordertype"				"scalable_image"
+			"background_type"			"0"
+			"color"						"Primary"
+=======
 		"FLAT_AccentMain_4"
 		{
 			"bordertype"				"scalable_image"
 			"background_type"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/FLAT_4"
 			"src_corner_width"			"20"
 			"src_corner_height"			"20"

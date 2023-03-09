@@ -539,13 +539,21 @@
 		"tall"	 "460"
 
 		"MaxDeathNotices" "8"
+<<<<<<< HEAD
+		"IconScale"	  "0.0"
+=======
 		"IconScale"	  "0.35"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"LineHeight"	  "10"
 		"LineSpacing"	  "0"
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
+<<<<<<< HEAD
+		"TextFont"		"regular11"
+=======
 		"TextFont"		"regular12"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		
 		"TeamBlue"		"m0reBlue"
 		"TeamRed"		"m0reRed"
@@ -553,7 +561,11 @@
 		"LocalPlayerColor"	"Black"
 
 		"BaseBackgroundColor"	"PanelT2"		[$WIN32]
+<<<<<<< HEAD
+		"LocalBackgroundColor"	"PanelAT1"	[$WIN32]
+=======
 		"LocalBackgroundColor"	"PanelAT4"	[$WIN32]
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 
 	HudVehicle

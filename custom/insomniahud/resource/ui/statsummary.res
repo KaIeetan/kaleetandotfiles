@@ -12,6 +12,8 @@
 		"enabled"		"1"
 	}
 
+<<<<<<< HEAD
+=======
 	"MainBackground"
 	{
 		"ControlName"	"ImagePanel"
@@ -26,6 +28,7 @@
 		"scaleImage"	"1"
 	}
 
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	"Background"
 	{
 		"ControlName"	"ImagePanel"
@@ -64,6 +67,15 @@
 			"proportionaltoparent"					"1"
 			"scaleImage"							"1"
 			"image"									"replay/thumbnails/ui_effects/menu_glow"
+<<<<<<< HEAD
+			"drawcolor"								"Primary"
+		}
+
+		"SubImage2"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage2"
+=======
 			"drawcolor"								"AccentMain"
 		}
 	}
@@ -85,6 +97,7 @@
 		{
 			"ControlName"							"CTFImagePanel"
 			"fieldName"								"SubImage"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"xpos"									"0"
 			"ypos"									"0"
 			"wide"									"f0"
@@ -92,7 +105,11 @@
 			"proportionaltoparent"					"1"
 			"scaleImage"							"1"
 			"image"									"replay/thumbnails/ui_effects/menu_glow_alt"
+<<<<<<< HEAD
+			"drawcolor"								"Primary"
+=======
 			"drawcolor"								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		}
 	}
 
@@ -131,14 +148,22 @@
 		"tall"			"100"
 		"image"			"replay/thumbnails/ui_effects/loading_animation"
 		"scaleImage"	"1"
+<<<<<<< HEAD
+		"drawcolor"		"Primary"
+=======
 		"drawcolor"		"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 
 	"MapLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapLabel"
+<<<<<<< HEAD
+		"font"			"regular14"
+=======
 		"font"			"bold18"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"labelText"		"%maplabel%"
 		"textAlignment"	"center"
 		"xpos"			"cs-0.5"
@@ -150,7 +175,10 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+<<<<<<< HEAD
+=======
 		"allcaps"		"1"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"fgcolor_override" "Text0"
 	}
 
@@ -158,7 +186,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
+<<<<<<< HEAD
+		"font"			"regular14"
+=======
 		"font"			"bold18"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
 		"xpos"			"cs-0.5"
@@ -170,7 +202,10 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+<<<<<<< HEAD
+=======
 		"allcaps"		"1"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"fgcolor_override" "Text0"
 	}
 
@@ -211,4 +246,14 @@
 		"fieldName"		"CloseButton"
 		"xpos"			"9999"
 	}
+<<<<<<< HEAD
+
+	"MainBackground"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MainBackground"
+		"xpos"			"0"
+	}
+=======
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 }

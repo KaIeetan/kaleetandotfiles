@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to Team Fortress 2
 
 Our map rotation is:
@@ -48,4 +49,56 @@ Our map rotation is:
 - Snakewater
 - Sunshine
 - Metalworks
+=======
+Welcome to Team Fortress 2
+
+Our map rotation is:
+- Gravel Pit
+- Dustbowl
+- Granary
+- Well (CP)
+- 2Fort
+- Hydro
+- Well (CTF)
+- Badlands (CP)
+- Gold Rush
+- Fastlane
+- Turbine
+- Badwater Basin
+- Steel
+- Egypt
+- Junction
+- Pipeline
+- Hoodoo
+- Sawmill (KOTH)
+- Nucleus (KOTH)
+- Viaduct (KOTH)
+- Sawmill (CTF)
+- Yukon
+- Harvest
+- Double Cross
+- Gorge
+- Freight
+- Upward
+- Hightower
+- Thunder Mountain
+- Coldfront
+- Mountain Lab
+- DeGroot Keep
+- 5Gorge
+- Frontier
+- Nightfall
+- Lakeside
+- Badlands (KOTH)
+- Barnblitz
+- Gullywash
+- Foundry
+- Doomsday
+- Kong King
+- Process
+- Standin
+- Snakewater
+- Sunshine
+- Metalworks
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 - Swiftwater

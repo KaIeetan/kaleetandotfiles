@@ -29,7 +29,11 @@
 		"font"										"bold32"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
+<<<<<<< HEAD
+		"fgcolor"									"Neutral"
+=======
 		"fgcolor"									"AmmoClip"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 
 	"AmmoInClipShadow"
@@ -69,7 +73,11 @@
 		"font"										"bold18"
 		"textAlignment"								"east"
 		"labelText"									"%AmmoInReserve%"
+<<<<<<< HEAD
+		"fgcolor"									"Neutral"
+=======
 		"fgcolor"									"AmmoReserve"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 		"pin_to_sibling"							"AmmoInClip"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -113,7 +121,11 @@
 		"font"										"bold32"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
+<<<<<<< HEAD
+		"fgcolor"									"Neutral"
+=======
 		"fgcolor"									"AmmoNoclip"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 
 	"AmmoNoClipShadow"

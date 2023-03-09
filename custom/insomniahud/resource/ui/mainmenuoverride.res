@@ -51,8 +51,13 @@
 				"paintborder"						"0"
 
 				"defaultFgColor_override" 			"White"
+<<<<<<< HEAD
+				"armedFgColor_override" 			"Primary"
+				"depressedFgColor_override" 		"Primary"
+=======
 				"armedFgColor_override" 			"AccentMain"
 				"depressedFgColor_override" 		"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			}
 		}
 
@@ -136,6 +141,15 @@
 			"proportionaltoparent"					"1"
 			"scaleImage"							"1"
 			"image"									"replay/thumbnails/ui_effects/menu_glow"
+<<<<<<< HEAD
+			"drawcolor"								"Primary"
+		}
+
+		"SubImage2"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage2"
+=======
 			"drawcolor"								"AccentMain"
 		}
 	}
@@ -157,6 +171,7 @@
 		{
 			"ControlName"							"CTFImagePanel"
 			"fieldName"								"SubImage"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"xpos"									"0"
 			"ypos"									"0"
 			"wide"									"f0"
@@ -164,7 +179,11 @@
 			"proportionaltoparent"					"1"
 			"scaleImage"							"1"
 			"image"									"replay/thumbnails/ui_effects/menu_glow_alt"
+<<<<<<< HEAD
+			"drawcolor"								"Primary"
+=======
 			"drawcolor"								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		}
 	}
 
@@ -208,7 +227,11 @@
 		"tall"										"f80"
 		"visible"									"1"
 		"enabled"									"1"
+<<<<<<< HEAD
+		"border"									"FLAT_Primary_4"
+=======
 		"border"									"FLAT_AccentMain_4"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 
 	"BottomButtonsPanel"
@@ -252,7 +275,11 @@
 			"proportionaltoparent"					"1"
 			"image"									"replay/thumbnails/ui_effects/menu_logo"
 			"scaleimage"							"1"
+<<<<<<< HEAD
+			"drawcolor"								"Primary"
+=======
 			"drawcolor"								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		}
 	}
 
@@ -269,8 +296,13 @@
 		"labeltext"									"BETA"
 		"command"									"engine clear; showconsole; ih_version"
 		"font"										"regular14"
+<<<<<<< HEAD
+		"defaultfgcolor_override"					"PrimaryT4"
+		"armedfgcolor_override"						"Primary"
+=======
 		"defaultfgcolor_override"					"AccentMainT4"
 		"armedfgcolor_override"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"paintbackground"							"0"
 		"textalignment"								"east"
 		"sound_depressed"							"UI/buttonclick.wav"
@@ -799,11 +831,19 @@
 
 			"command"								"engine ih_info"
 
+<<<<<<< HEAD
+			"border_default"						"LINE_BOTTOM_NOGLOW_Primary_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_Primary_3"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"LINE_BOTTOM_Primary_3"
+=======
 			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
 			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
 
 			"border_default"						"NoBorder"
 			"border_armed"							"LINE_BOTTOM_AccentMain_3"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		}
 
 		"ConsoleButton"
@@ -828,8 +868,13 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
+<<<<<<< HEAD
+			"border_default"						"LINE_BOTTOM_NOGLOW_Primary_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_Primary_3"
+=======
 			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
 			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 			"pin_to_sibling"						"InfoButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -858,8 +903,13 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
+<<<<<<< HEAD
+			"border_default"						"LINE_BOTTOM_NOGLOW_Primary_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_Primary_3"
+=======
 			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
 			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 			"pin_to_sibling"						"ConsoleButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -888,8 +938,13 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
+<<<<<<< HEAD
+			"border_default"						"LINE_BOTTOM_NOGLOW_Primary_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_Primary_3"
+=======
 			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
 			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 			"pin_to_sibling"						"DemoUIButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -918,8 +973,13 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
+<<<<<<< HEAD
+			"border_default"						"LINE_BOTTOM_NOGLOW_Primary_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_Primary_3"
+=======
 			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
 			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -985,14 +1045,24 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
+<<<<<<< HEAD
+				"defaultFgColor_override" 	"Primary"
+				"armedFgColor_override" 	"Primary"
+=======
 				"defaultFgColor_override" 	"AccentMain"
 				"armedFgColor_override" 	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
+<<<<<<< HEAD
+				"border_default"			"LINE_BOTTOM_NOGLOW_Primary_3"
+				"border_armed"				"LINE_BOTTOM_GLOW_Primary_0"
+=======
 				"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_3"
 				"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			}
 		}
 
@@ -1038,14 +1108,24 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
+<<<<<<< HEAD
+				"defaultFgColor_override" 	"Primary"
+				"armedFgColor_override" 	"Primary"
+=======
 				"defaultFgColor_override" 	"AccentMain"
 				"armedFgColor_override" 	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
+<<<<<<< HEAD
+				"border_default"			"LINE_BOTTOM_NOGLOW_Primary_3"
+				"border_armed"				"LINE_BOTTOM_GLOW_Primary_0"
+=======
 				"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_3"
 				"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			}
 		}
 
@@ -1092,14 +1172,24 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
+<<<<<<< HEAD
+				"defaultFgColor_override" 	"Primary"
+				"armedFgColor_override" 	"Primary"
+=======
 				"defaultFgColor_override" 	"AccentMain"
 				"armedFgColor_override" 	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
+<<<<<<< HEAD
+				"border_default"			"LINE_BOTTOM_NOGLOW_Primary_3"
+				"border_armed"				"LINE_BOTTOM_GLOW_Primary_0"
+=======
 				"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_3"
 				"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			}
 		}
 
@@ -1145,14 +1235,24 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
+<<<<<<< HEAD
+				"defaultFgColor_override" 	"Primary"
+				"armedFgColor_override" 	"Primary"
+=======
 				"defaultFgColor_override" 	"AccentMain"
 				"armedFgColor_override" 	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
+<<<<<<< HEAD
+				"border_default"			"LINE_BOTTOM_NOGLOW_Primary_3"
+				"border_armed"				"LINE_BOTTOM_GLOW_Primary_0"
+=======
 				"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_3"
 				"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			}
 		}
 	}
@@ -1200,8 +1300,13 @@
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
 
+<<<<<<< HEAD
+			"defaultFgColor_override" 	"PrimaryT4"
+			"armedFgColor_override" 	"Primary"
+=======
 			"defaultFgColor_override" 	"AccentMainT4"
 			"armedFgColor_override" 	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		}
 	}
 	
@@ -1244,8 +1349,13 @@
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
 
+<<<<<<< HEAD
+			"defaultFgColor_override" 	"PrimaryT4"
+			"armedFgColor_override" 	"Primary"
+=======
 			"defaultFgColor_override" 	"AccentMainT4"
 			"armedFgColor_override" 	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		}
 	}
 
@@ -1288,8 +1398,13 @@
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
 
+<<<<<<< HEAD
+			"defaultFgColor_override" 	"PrimaryT4"
+			"armedFgColor_override" 	"Primary"
+=======
 			"defaultFgColor_override" 	"AccentMainT4"
 			"armedFgColor_override" 	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		}
 	}
 
@@ -1343,8 +1458,13 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
+<<<<<<< HEAD
+			"defaultfgcolor_override"				"PrimaryT4"
+			"armedfgcolor_override"					"Primary"
+=======
 			"defaultfgcolor_override"				"AccentMainT4"
 			"armedfgcolor_override"					"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		}
 	}
 

@@ -2,6 +2,10 @@
 *.psd
 *.tga
 .vscode
+<<<<<<< HEAD
+.dev_old
+=======
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

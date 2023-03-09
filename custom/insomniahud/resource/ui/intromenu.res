@@ -76,7 +76,11 @@
 		"paintborder"								"0"
 
 		"defaultFgColor_override"					"White"
+<<<<<<< HEAD
+		"armedFgColor_override" 					"Primary"
+=======
 		"armedFgColor_override" 					"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"depressedFgColor_override" 				"White"
 
 		"pin_to_sibling"							"VideoCaption"
@@ -104,7 +108,11 @@
 		"paintborder"								"0"
 
 		"defaultFgColor_override"					"White"
+<<<<<<< HEAD
+		"armedFgColor_override" 					"Primary"
+=======
 		"armedFgColor_override" 					"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"depressedFgColor_override" 				"White"
 
 		"pin_to_sibling"							"Skip"

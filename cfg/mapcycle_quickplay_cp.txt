@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cp_5gorge
 cp_badlands
 cp_coldfront
@@ -15,3 +16,22 @@ cp_powerhouse
 cp_vanguard
 cp_sunshine
 cp_metalworks
+=======
+cp_5gorge
+cp_badlands
+cp_coldfront
+cp_fastlane
+cp_freight_final1
+cp_granary
+cp_well
+cp_yukon_final
+cp_foundry
+cp_gullywash_final1
+cp_process_final
+cp_standin_final
+cp_snakewater_final1
+cp_powerhouse
+cp_vanguard
+cp_sunshine
+cp_metalworks
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6

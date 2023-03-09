@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+#base ../custom/insomniahud/customization/colors/_dev/accent_color_res/74.res 
+=======
 #base ../custom/insomniaHUD/customization/colors/_dev/accent_color_res/120.res 
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6

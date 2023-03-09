@@ -2,9 +2,15 @@
 
 event HudLowAmmoPulse
 {
+<<<<<<< HEAD
+	Animate AmmoInClip 						FgColor 	"Negative" 					Linear 	0.0 	0.1
+	Animate AmmoInReserve 					FgColor 	"Negative" 				Linear 	0.0 	0.1
+	Animate AmmoNoClip						FgColor 	"Negative" 					Linear 	0.0 	0.1
+=======
 	Animate AmmoInClip 						FgColor 	"AmmoClipLow" 					Linear 	0.0 	0.1
 	Animate AmmoInReserve 					FgColor 	"AmmoReserveLow" 				Linear 	0.0 	0.1
 	Animate AmmoNoClip						FgColor 	"AmmoNoclipLow" 					Linear 	0.0 	0.1
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 	RunEvent HudLowAmmoPulseLoop					0.25
 }
@@ -14,9 +20,15 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulse 						0.0
 	StopEvent HudLowAmmoPulseLoop 					0.0
 
+<<<<<<< HEAD
+	Animate AmmoInClip						FgColor 	"Neutral" 							Linear 	0.0 	0.1
+	Animate AmmoInReserve					FgColor 	"Neutral" 							Linear 	0.0 	0.1
+	Animate AmmoNoClip						FgColor 	"Neutral" 							Linear 	0.0 	0.1
+=======
 	Animate AmmoInClip						FgColor 	"AmmoClip" 							Linear 	0.0 	0.1
 	Animate AmmoInReserve					FgColor 	"AmmoReserve" 							Linear 	0.0 	0.1
 	Animate AmmoNoClip						FgColor 	"AmmoClip" 							Linear 	0.0 	0.1
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 }
 
 //===========================================================================================================================

@@ -25,7 +25,11 @@
 		"CheckButton.DepressedBgColor"				"Blank"
 		"CheckButton.Border1"						"White"
 		"CheckButton.Border2"						"White"
+<<<<<<< HEAD
+		"CheckButton.Check"							"Primary"
+=======
 		"CheckButton.Check"							"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"CheckButton.DisabledBgColor"				"PanelO0"
 
 		"ToggleButton.SelectedTextColor"			"Text0"
@@ -60,7 +64,11 @@
 
 		"ListPanel.TextColor"						"Text0"
 		"ListPanel.BgColor"							"PanelO0"
+<<<<<<< HEAD
+		"ListPanel.SelectedBgColor"					"Primary"
+=======
 		"ListPanel.SelectedBgColor"					"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"ListPanel.SelectedOutOfFocusBgColor"		"PanelO3"
 
 		"MainMenu.TextColor"						"Text1"
@@ -92,10 +100,17 @@
 
 		"TextEntry.TextColor"						"Text0"
 		"TextEntry.DisabledTextColor"				"Text2"
+<<<<<<< HEAD
+		"TextEntry.SelectedBgColor"					"Primary"
+
+		"SectionedListPanel.SelectedBgColor"			"Primary"
+		"SectionedListPanel.OutOfFocusSelectedBgColor"	"Primary"
+=======
 		"TextEntry.SelectedBgColor"					"AccentMain"
 
 		"SectionedListPanel.SelectedBgColor"			"AccentMain"
 		"SectionedListPanel.OutOfFocusSelectedBgColor"	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 	"Borders"
 	{

@@ -28,7 +28,11 @@
 		"labelText"									"Z"
 		"textAlignment"								"center"
 		"font"										"iconsSmall"
+<<<<<<< HEAD
+		"fgcolor" 									"Primary"
+=======
 		"fgcolor" 									"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 
 	"ItemEffectMeterIconShadow"
@@ -66,7 +70,11 @@
 		"labelText"									"%progresscount%"
 		"textAlignment"								"west"
 		"font"										"bold18"
+<<<<<<< HEAD
+		"fgcolor" 									"Primary"
+=======
 		"fgcolor" 									"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 
 	"ItemEffectMeterCountShadow"

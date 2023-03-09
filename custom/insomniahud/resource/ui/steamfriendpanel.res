@@ -32,7 +32,11 @@
 		"armedBgColor_override"						"0 0 0 0"
 		
 		"border_default"							"NoBorder"
+<<<<<<< HEAD
+		"border_armed"								"LINE_LEFT_GLOW_Primary_5"
+=======
 		"border_armed"								"LINE_LEFT_GLOW_AccentMain_5"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 	}
 
 	"NameLabel"

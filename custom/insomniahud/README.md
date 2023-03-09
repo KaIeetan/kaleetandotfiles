@@ -4,13 +4,21 @@
 
 # Info
 
+<<<<<<< HEAD
+**NOTICE: RENAME THE HUD FOLDER TO `insomniahud` (All lower case) OR ELSE IT WILL *NOT* WORK!!!**
+=======
 **NOTICE: RENAME THE HUD FOLDER TO `insomniaHUD` OR ELSE IT WILL *NOT* WORK!!!**
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 **YOUR `custom/` FOLDER SHOULD LOOK LIKE THIS:**
 ```
 custom/
 ├── ...
+<<<<<<< HEAD
+├── insomniahud/
+=======
 ├── insomniaHUD/
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 │   ├── ...
 │   ├── info.vdf
 │   ├── README.MD
@@ -61,6 +69,33 @@ In the main menu, there is a button labeled `CUSTOMIZE HUD`. This will enable Cu
 ## Screenshots
 
 ### Main Menu (Animated)
+<<<<<<< HEAD
+![main_menu](./assets/screenshots/main_menu.webp)
+### Main Menu (In-Game) (Animated)
+![main_menu_ig](./assets/screenshots/main_menu_ingame.webp)
+### Customization Menu (Animated)
+![customization_menu](./assets/screenshots/customization_menu.webp)
+### Items Menu
+![items](./assets/screenshots/items_menu.webp)
+### Backpack
+![backpack](./assets/screenshots/backpack.webp)
+### Class Loadout
+![class_loadout](./assets/screenshots/class_loadout.webp)
+### Team Menu
+![team_menu](./assets/screenshots/team_menu.webp)
+### Class Menu
+![class_menu](./assets/screenshots/class_menu.webp)
+### Attack/Defend
+![attack_defend](./assets/screenshots/attack_defend.webp)
+### Control Points
+![control_points](./assets/screenshots/control_points.webp)
+### KOTH
+![koth](./assets/screenshots/koth.webp)
+### CTF
+![ctf](./assets/screenshots/ctf.webp)
+### Payload
+![payload](./assets/screenshots/payload.webp)
+=======
 ![main_menu](./assets/screenshots/main_menu.jpg)
 ### Main Menu (In-Game) (Animated)
 ![main_menu_ig](./assets/screenshots/main_menu_ingame.jpg)
@@ -86,3 +121,4 @@ In the main menu, there is a button labeled `CUSTOMIZE HUD`. This will enable Cu
 ![ctf](./assets/screenshots/ctf.jpg)
 ### Payload
 ![payload](./assets/screenshots/payload.jpg)
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6

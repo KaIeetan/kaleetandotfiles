@@ -38,7 +38,11 @@
 					"proportionaltoparent"		"1"
 					"scaleImage"				"1"
 					"image"						"replay/thumbnails/ui_effects/menu_glow"
+<<<<<<< HEAD
+					"drawcolor"					"Primary"
+=======
 					"drawcolor"					"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				}
 			}
 			"MenuColorizer2"
@@ -63,7 +67,11 @@
 					"proportionaltoparent"		"1"
 					"scaleImage"				"1"
 					"image"						"replay/thumbnails/ui_effects/menu_glow_alt"
+<<<<<<< HEAD
+					"drawcolor"					"Primary"
+=======
 					"drawcolor"					"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				}
 			}
 			"BG"
@@ -88,7 +96,11 @@
 				"font"						"bold32"
 				"labelText"					"insomniaHUD"
 				"textAlignment"				"center"
+<<<<<<< HEAD
+				"fgcolor"					"Primary"
+=======
 				"fgcolor"					"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			}
 			"Body"
 			{
@@ -120,7 +132,11 @@
 				"labelText"					"WARNING: FOLDER IS NOT RENAMED. CUSTOMIZATION OPTIONS WILL NOT WORK."
 				"textAlignment"				"center"
 				"centerwrap"				"1"
+<<<<<<< HEAD
+				"bgcolor_override"			"255 64 80 255"
+=======
 				"bgcolor_override"			"255 64 64 255"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"fgcolor_override"			"0 0 0 255"
 			}
 			"ContinueButton"

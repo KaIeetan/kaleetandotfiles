@@ -349,7 +349,11 @@
 		"TextEntry.CursorColor"								"Text1"
 		"TextEntry.DisabledTextColor"						"Text2"
 		"TextEntry.DisabledBgColor"							"Blank"
+<<<<<<< HEAD
+		"TextEntry.SelectedTextColor"						"Primary"
+=======
 		"TextEntry.SelectedTextColor"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"TextEntry.SelectedBgColor"							"Blank"
 		"TextEntry.OutOfFocusSelectedBgColor"				"Blank"
 		"TextEntry.FocusEdgeColor"							"Blank"
@@ -781,7 +785,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"44"
 				"weight"									"600"
 				"additive"									"0"
@@ -793,7 +801,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"35"
 				"weight"									"600"
 				"additive"									"0"
@@ -828,7 +840,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"30"
 				"weight"									"600"
 				"additive"									"0"
@@ -852,7 +868,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -864,7 +884,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"24"
 				"weight"									"600"
 				"additive"									"0"
@@ -876,7 +900,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"18"
 				"weight"									"600"
 				"additive"									"0"
@@ -900,7 +928,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -912,7 +944,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -924,7 +960,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"16"
 				"weight"									"600"
 				"additive"									"0"
@@ -936,7 +976,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"600"
 				"additive"									"0"
@@ -948,7 +992,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"600"
 				"additive"									"0"
@@ -961,7 +1009,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -973,7 +1025,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -986,7 +1042,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"600"
 				"additive"									"0"
@@ -998,7 +1058,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"4"
 				"weight"									"600"
 				"additive"									"0"
@@ -1010,7 +1074,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"10"
 				"weight"									"600"
 				"additive"									"0"
@@ -1022,7 +1090,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"16"
 				"weight"									"600"
 				"additive"									"0"
@@ -1034,7 +1106,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -1046,7 +1122,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"9"
 				"weight"									"600"
 				"additive"									"0"
@@ -1058,7 +1138,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"6"
 				"weight"									"600"
 				"additive"									"0"
@@ -1070,7 +1154,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -1082,7 +1170,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -1160,7 +1252,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -1444,7 +1540,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"antialias" 								"1"
 				"weight"									"500"
@@ -1478,7 +1578,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"28"
 				"antialias"									"1"
 				"custom"									"1" 	[$OSX]
@@ -1490,7 +1594,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"40"
 				"antialias"									"1"
 				"custom"									"1" 	[$OSX]
@@ -1502,7 +1610,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"24"
 				"antialias" 								"1"
 				"custom"									"1" 	[$OSX]
@@ -1514,7 +1626,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14" 	[!$OSX]
 				"tall"										"15" 	[$OSX]
 				"antialias"									"1"
@@ -1551,7 +1667,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -1576,7 +1696,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1589,7 +1713,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1602,7 +1730,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1615,7 +1747,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1628,7 +1764,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"34"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1715,7 +1855,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -1727,7 +1871,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"20"
 				"weight"									"500"
 				"additive"									"0"
@@ -1739,7 +1887,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -1751,7 +1903,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -1763,7 +1919,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"7"
 				"weight"									"500"
 				"additive"									"0"
@@ -1775,7 +1935,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -2006,7 +2170,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"36"
 				"weight"									"600"
 			}
@@ -2016,7 +2184,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"30"
 				"weight"									"600"
 			}
@@ -2026,7 +2198,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"28"
 				"weight"									"500"
 			}
@@ -2056,7 +2232,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"22"
 				"weight"									"500"
 			}
@@ -2066,7 +2246,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"18"
 				"weight"									"500"
 			}
@@ -2106,7 +2290,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"36"
 				"weight"									"600"
 				"additive"									"0"
@@ -2118,7 +2306,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2130,7 +2322,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2220,7 +2416,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"8"
 				"weight"									"600"
 				"additive"									"0"
@@ -2232,7 +2432,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"9"
 				"weight"									"600"
 				"additive"									"0"
@@ -2244,7 +2448,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"12"
 				"weight"									"600"
 				"additive"									"0"
@@ -2256,7 +2464,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"18"
 				"weight"									"600"
 				"additive"									"0"
@@ -2268,7 +2480,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"7"
 				"weight"									"500"
 				"additive"									"0"
@@ -2291,7 +2507,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -2303,7 +2523,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2315,7 +2539,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2327,7 +2555,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"9"
 				"weight"									"600"
 				"additive"									"0"
@@ -2339,7 +2571,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"9"
 				"weight"									"600"
 				"blur"										"3"
@@ -2492,7 +2728,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"20"
 				"antialias" 								"1"
 				"custom"									"1" [$OSX]
@@ -2504,7 +2744,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"10"
 				"weight"									"500"
 				"yres"										"480 599"
@@ -2513,7 +2757,11 @@
 			}
 			"2"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2522,7 +2770,11 @@
 			}
 			"3"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"22"
 				"weight"									"500"
 				"additive"									"0"
@@ -2535,7 +2787,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"10"
 				"weight"									"500"
 				"yres"										"480 599"
@@ -2545,7 +2801,11 @@
 			}
 			"2"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2555,7 +2815,11 @@
 			}
 			"3"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"22"
 				"weight"									"500"
 				"additive"									"0"
@@ -2569,7 +2833,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"10"
 				"weight"									"500"
 				"yres"										"480 599"
@@ -2578,7 +2846,11 @@
 			}
 			"2"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2587,7 +2859,11 @@
 			}
 			"3"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2600,7 +2876,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"13"
 				"weight"									"500"
 				"additive"									"0"
@@ -2612,7 +2892,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -2624,7 +2908,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -2731,7 +3019,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2797,7 +3089,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"600"
 				"additive"									"0"
@@ -2809,7 +3105,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"600"
 				"additive"									"0"
@@ -2833,7 +3133,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"24"
 				"weight"									"600"
 				"additive"									"0"
@@ -2845,7 +3149,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2857,7 +3165,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"14"
 				"weight"									"600"
 				"additive"									"0"
@@ -2869,7 +3181,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"24"
 				"weight"									"600"
 				"additive"									"0"
@@ -2881,7 +3197,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"15"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -2894,7 +3214,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffMedium"
+=======
 				"name"										"PJSMedium"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -2906,7 +3230,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"600"
 				"antialias" 								"1"
@@ -2917,7 +3245,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"11"
 				"weight"									"600"
 				"blur"										"3"
@@ -2930,7 +3262,11 @@
 		{
 			"1"
 			{
+<<<<<<< HEAD
+				"name"										"GreycliffBold"
+=======
 				"name"										"PJSBold"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 				"tall"										"12"
 				"weight"									"600"
 				"additive"									"0"
@@ -3502,7 +3838,11 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
+<<<<<<< HEAD
+			"Color"											"Primary"
+=======
 			"Color"											"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 			"image"											"replay/thumbnails/panels/misc/modal"
 			"src_corner_height"								"30"
@@ -3564,7 +3904,11 @@
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
+<<<<<<< HEAD
+			"color"					"Primary"
+=======
 			"color"					"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"					"replay/thumbnails/panels/misc/modal"
 			"src_corner_width"		"30"
 			"src_corner_height"		"30"
@@ -4836,7 +5180,11 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
+<<<<<<< HEAD
+			"color"											"Primary"
+=======
 			"color"											"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"											"replay/thumbnails/panels/misc/modal"
 			"src_corner_width"								"30"
 			"src_corner_height"								"30"
@@ -5448,12 +5796,20 @@
 			{
 				"1"
 				{
+<<<<<<< HEAD
+					"color" 								"Primary"
+=======
 					"color" 								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"0 1"
 				}
 				"2"
 				{
+<<<<<<< HEAD
+					"color" 								"Primary"
+=======
 					"color" 								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"0 1"
 				}
 			}
@@ -5467,12 +5823,20 @@
 			{
 				"1"
 				{
+<<<<<<< HEAD
+					"color" 								"Primary"
+=======
 					"color" 								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"0 1"
 				}
 				"2"
 				{
+<<<<<<< HEAD
+					"color" 								"Primary"
+=======
 					"color" 								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"0 1"
 				}
 			}
@@ -5480,12 +5844,20 @@
 			{
 				"1"
 				{
+<<<<<<< HEAD
+					"color"								 	"Primary"
+=======
 					"color"								 	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"1 0"
 				}
 				"2"
 				{
+<<<<<<< HEAD
+					"color" 								"Primary"
+=======
 					"color" 								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"1 0"
 				}
 			}
@@ -5493,12 +5865,20 @@
 			{
 				"1"
 				{
+<<<<<<< HEAD
+					"color" 								"Primary"
+=======
 					"color" 								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"0 0"
 				}
 				"2"
 				{
+<<<<<<< HEAD
+					"color" 								"Primary"
+=======
 					"color" 								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"0 0"
 				}
 			}
@@ -5506,12 +5886,20 @@
 			{
 				"1"
 				{
+<<<<<<< HEAD
+					"color" 								"Primary"
+=======
 					"color" 								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"0 0"
 				}
 				"2"
 				{
+<<<<<<< HEAD
+					"color" 								"Primary"
+=======
 					"color" 								"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 					"offset" 								"0 0"
 				}
 			}

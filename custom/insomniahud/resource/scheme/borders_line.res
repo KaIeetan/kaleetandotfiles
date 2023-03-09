@@ -486,484 +486,836 @@
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_GLOW_Primary_0"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_GLOW_AccentMain_0"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/0/BOTTOM_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_NOGLOW_Primary_0"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_NOGLOW_AccentMain_0"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/0/BOTTOM_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_GLOW_Primary_0"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_GLOW_AccentMain_0"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/0/LEFT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_NOGLOW_Primary_0"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_NOGLOW_AccentMain_0"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/0/LEFT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_GLOW_Primary_0"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_GLOW_AccentMain_0"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/0/RIGHT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_NOGLOW_Primary_0"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_NOGLOW_AccentMain_0"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/0/RIGHT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_GLOW_Primary_0"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_GLOW_AccentMain_0"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/0/TOP_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_NOGLOW_Primary_0"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_NOGLOW_AccentMain_0"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/0/TOP_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_GLOW_Primary_1"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_GLOW_AccentMain_1"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/1/BOTTOM_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_NOGLOW_Primary_1"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_NOGLOW_AccentMain_1"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/1/BOTTOM_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_GLOW_Primary_1"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_GLOW_AccentMain_1"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/1/LEFT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_NOGLOW_Primary_1"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_NOGLOW_AccentMain_1"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/1/LEFT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_GLOW_Primary_1"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_GLOW_AccentMain_1"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/1/RIGHT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_NOGLOW_Primary_1"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_NOGLOW_AccentMain_1"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/1/RIGHT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_GLOW_Primary_1"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_GLOW_AccentMain_1"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/1/TOP_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_NOGLOW_Primary_1"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_NOGLOW_AccentMain_1"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/1/TOP_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_GLOW_Primary_2"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_GLOW_AccentMain_2"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/2/BOTTOM_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_NOGLOW_Primary_2"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_NOGLOW_AccentMain_2"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/2/BOTTOM_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_GLOW_Primary_2"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_GLOW_AccentMain_2"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/2/LEFT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_NOGLOW_Primary_2"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_NOGLOW_AccentMain_2"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/2/LEFT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_GLOW_Primary_2"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_GLOW_AccentMain_2"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/2/RIGHT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_NOGLOW_Primary_2"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_NOGLOW_AccentMain_2"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/2/RIGHT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_GLOW_Primary_2"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_GLOW_AccentMain_2"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/2/TOP_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_NOGLOW_Primary_2"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_NOGLOW_AccentMain_2"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/2/TOP_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_GLOW_Primary_3"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_GLOW_AccentMain_3"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/3/BOTTOM_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_NOGLOW_Primary_3"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_NOGLOW_AccentMain_3"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/3/BOTTOM_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_GLOW_Primary_3"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_GLOW_AccentMain_3"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/3/LEFT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_NOGLOW_Primary_3"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_NOGLOW_AccentMain_3"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/3/LEFT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_GLOW_Primary_3"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_GLOW_AccentMain_3"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/3/RIGHT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_NOGLOW_Primary_3"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_NOGLOW_AccentMain_3"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/3/RIGHT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_GLOW_Primary_3"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_GLOW_AccentMain_3"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/3/TOP_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_NOGLOW_Primary_3"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_NOGLOW_AccentMain_3"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/3/TOP_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_GLOW_Primary_4"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_GLOW_AccentMain_4"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/4/BOTTOM_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_NOGLOW_Primary_4"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_NOGLOW_AccentMain_4"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/4/BOTTOM_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_GLOW_Primary_4"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_GLOW_AccentMain_4"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/4/LEFT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_NOGLOW_Primary_4"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_NOGLOW_AccentMain_4"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/4/LEFT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_GLOW_Primary_4"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_GLOW_AccentMain_4"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/4/RIGHT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_NOGLOW_Primary_4"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_NOGLOW_AccentMain_4"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/4/RIGHT_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_GLOW_Primary_4"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_GLOW_AccentMain_4"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/4/TOP_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_NOGLOW_Primary_4"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_NOGLOW_AccentMain_4"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/4/TOP_NOGLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_BOTTOM_GLOW_Primary_5"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_BOTTOM_GLOW_AccentMain_5"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/5/BOTTOM_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_LEFT_GLOW_Primary_5"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_LEFT_GLOW_AccentMain_5"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/5/LEFT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_RIGHT_GLOW_Primary_5"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_RIGHT_GLOW_AccentMain_5"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/5/RIGHT_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"
 			"draw_corner_width"			"5"
 			"draw_corner_height"		"5"
 		}
+<<<<<<< HEAD
+		"LINE_TOP_GLOW_Primary_5"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"0"
+			"color"						"Primary"
+=======
 		"LINE_TOP_GLOW_AccentMain_5"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"0"
 			"color"						"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 			"image"						"replay/thumbnails/panels/line/5/TOP_GLOW"
 			"src_corner_width"			"30"
 			"src_corner_height"			"30"

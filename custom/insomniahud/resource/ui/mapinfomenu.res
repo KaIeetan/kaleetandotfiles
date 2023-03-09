@@ -85,7 +85,10 @@
 		"enabled"									"1"
 		"labeltext"									"%mapname%"
 		"textalignment"								"center"
+<<<<<<< HEAD
+=======
 		"allcaps"									"1"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 		"font"										"regular14"
 		"mouseinputenabled"							"0"
 	}

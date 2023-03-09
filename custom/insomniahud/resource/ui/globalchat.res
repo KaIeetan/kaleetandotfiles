@@ -20,9 +20,15 @@
 		"log_font_large"			"HudFontMediumSecondary"
 
 		"chat_color_default"		"Text0"
+<<<<<<< HEAD
+		"chat_color_player_name"	"Primary"
+		"chat_color_chat_text"		"Text0"
+		"chat_color_party_event"	"Primary"
+=======
 		"chat_color_player_name"	"AccentMain"
 		"chat_color_chat_text"		"Text0"
 		"chat_color_party_event"	"AccentMain"
+>>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
 
 		"collapsed_height"		"0"
 		"expanded_height"		"221"

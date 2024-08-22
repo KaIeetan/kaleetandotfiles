@@ -1,11 +1,9 @@
 mastercomfig low
 
-no hats mod using headsfeet
-
-insomniahud
+lighthud
 
 quake3 hitsound and killsound
 
-crosshair7ol crosshair with seekerol on scout
+cyan crosshair3 at scale 24
 
 autoexec with sane defaults and comments

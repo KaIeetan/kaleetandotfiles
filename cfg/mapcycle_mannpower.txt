@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-ctf_gorge
-ctf_thundermountain
-ctf_hellfire
-=======
-ctf_gorge
-ctf_thundermountain
-ctf_hellfire
->>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6

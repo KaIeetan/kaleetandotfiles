@@ -1,5 +1,0 @@
-Competitive Menu
-MVM Menu
-Crafting Menu
-Armory/Catalog
-Arena UI

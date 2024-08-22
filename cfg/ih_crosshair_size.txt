@@ -1,1 +1,0 @@
-Resource/HudLayout.Res { IHCrosshair { font Crosshairs12 } } 

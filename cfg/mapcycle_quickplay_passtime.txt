@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-pass_brickyard
-pass_timbertown
-pass_district
-=======
-pass_brickyard
-pass_timbertown
-pass_district
->>>>>>> 594daf7a599dbaeb348af02fa19ee9c5a849c5e6
